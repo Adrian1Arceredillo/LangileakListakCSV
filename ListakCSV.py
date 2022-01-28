@@ -204,8 +204,6 @@ def calcularEdades():
     print("Adina: " + str(age))
 
 
-
-
 #lista de listas:
 #bilatutakoa = [langilea for langilea in datuak if langilea[9] = 'Eibar']
 
