@@ -204,6 +204,8 @@ def calcularEdades():
     print("Adina: " + str(age))
 
 
+
+
 #lista de listas:
 #bilatutakoa = [langilea for langilea in datuak if langilea[9] = 'Eibar']
 
@@ -211,12 +213,10 @@ def calcularEdades():
 aukera = "afwff"
 salir = False
 
-print('----')
-pruebaLeerDatakLista()
 
-print('----')
 
 while(aukera != 'k'):
+    print('-----------')
     print('MENUA')
     print('-----------')
     print('a) Ikusi langile guztiak. ')
